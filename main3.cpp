@@ -84,8 +84,7 @@ void reverseArray(int arr[], int n)
     //     l++;
     //     h--;
     // }
-
-    // Pro ki trh code
+    
     // while (l < h)
     // swap(arr[l++], arr[h--]);
 
